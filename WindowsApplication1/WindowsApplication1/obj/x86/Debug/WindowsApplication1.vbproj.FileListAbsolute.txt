@@ -1,0 +1,50 @@
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.delCustomer.resources
+C:\Users\Deep\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.showCustomer.resources
+C:\Users\Deep\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addProducts.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.customer.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.customerpage.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderStatus.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.editProfile.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderPlaced.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.removeProduct.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeOrders.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeProfile.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.updateProduct.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.editStocks.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeStocks.resources
+C:\Users\Deep\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeCustomer.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addProducts.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.customer.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.customerpage.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.delCustomer.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.editProfile.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.editStocks.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderPlaced.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderStatus.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.removeProduct.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeCustomer.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeOrders.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeProfile.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.seeStocks.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.showCustomer.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.updateProduct.resources
+F:\PLACEMENTS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

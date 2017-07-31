@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D45467B-DD5B-4C30-82A2-9015F52F5046}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addProducts.Designer.vb">
+      <DependentUpon>addProducts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addProducts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.vb">
+      <DependentUpon>customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerpage.Designer.vb">
+      <DependentUpon>customerpage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customerpage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delCustomer.Designer.vb">
+      <DependentUpon>delCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="delCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editProfile.Designer.vb">
+      <DependentUpon>editProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editStocks.Designer.vb">
+      <DependentUpon>editStocks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editStocks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="orderPlaced.Designer.vb">
+      <DependentUpon>orderPlaced.vb</DependentUpon>
+    </Compile>
+    <Compile Include="orderPlaced.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orderStatus.Designer.vb">
+      <DependentUpon>orderStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="orderStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="removeProduct.Designer.vb">
+      <DependentUpon>removeProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="removeProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seeCustomer.Designer.vb">
+      <DependentUpon>seeCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seeCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seeOrders.Designer.vb">
+      <DependentUpon>seeOrders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seeOrders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seeProfile.Designer.vb">
+      <DependentUpon>seeProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seeProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seeStocks.Designer.vb">
+      <DependentUpon>seeStocks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seeStocks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showCustomer.Designer.vb">
+      <DependentUpon>showCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLConnect.vb" />
+    <Compile Include="SQLControl.vb" />
+    <Compile Include="updateProduct.Designer.vb">
+      <DependentUpon>updateProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="updateProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addProducts.resx">
+      <DependentUpon>addProducts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerpage.resx">
+      <DependentUpon>customerpage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delCustomer.resx">
+      <DependentUpon>delCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editProfile.resx">
+      <DependentUpon>editProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editStocks.resx">
+      <DependentUpon>editStocks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderPlaced.resx">
+      <DependentUpon>orderPlaced.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderStatus.resx">
+      <DependentUpon>orderStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="removeProduct.resx">
+      <DependentUpon>removeProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seeCustomer.resx">
+      <DependentUpon>seeCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seeOrders.resx">
+      <DependentUpon>seeOrders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seeProfile.resx">
+      <DependentUpon>seeProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seeStocks.resx">
+      <DependentUpon>seeStocks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showCustomer.resx">
+      <DependentUpon>showCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateProduct.resx">
+      <DependentUpon>updateProduct.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain-desktop-background-hd-wallpapers-plain-1274916138.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-wallpapers-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-simple_00267528.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ecommerce-shopping-cart-keyboard-ss-wallpaper-689816040.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\459857729.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ecommerce-shopping-retail-ss-1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-inc-products-wallpaper-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet-of-things-IoT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GbwKH1d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-3d-tiles-vo4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon21_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart-ecommerce-keyboard-ss-1920.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,36 @@
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\bin\Debug\placements.exe.config
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\bin\Debug\placements.exe
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\bin\Debug\placements.pdb
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\bin\Debug\placements.xml
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.Form1.resources
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.Login.resources
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.Resources.resources
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.vbproj.GenerateResource.Cache
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.exe
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.xml
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.pdb
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.StudentDash.resources
+c:\users\kashif\documents\visual studio 2013\Projects\placements\placements\obj\Debug\placements.StudentProfile.resources
+C:\Users\Kashif\Documents\Visual Studio 2013\Projects\placements\placements\obj\Debug\placements.vbprojResolveAssemblyReference.cache
+C:\Users\Kashif\Documents\Visual Studio 2013\Projects\placements\placements\obj\Debug\placements.AppliedCompanies.resources
+C:\Users\Kashif\Documents\Visual Studio 2013\Projects\placements\placements\obj\Debug\placements.StudentCompanies.resources
+C:\Users\Kashif\Documents\Visual Studio 2013\Projects\placements\placements\obj\Debug\placements.StaffDash.resources
+C:\Users\Kashif\Documents\Visual Studio 2013\Projects\placements\placements\obj\Debug\placements.UpdateStudentProf.resources
+F:\PLACEMENTS\placements\placements\bin\Debug\placements.exe.config
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.exe
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.xml
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.pdb
+F:\PLACEMENTS\placements\placements\bin\Debug\placements.exe
+F:\PLACEMENTS\placements\placements\bin\Debug\placements.pdb
+F:\PLACEMENTS\placements\placements\bin\Debug\placements.xml
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.vbprojResolveAssemblyReference.cache
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.AppliedCompanies.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.Form1.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.Login.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.Resources.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.StaffDash.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.StudentCompanies.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.StudentDash.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.StudentProfile.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.UpdateStudentProf.resources
+F:\PLACEMENTS\placements\placements\obj\Debug\placements.vbproj.GenerateResource.Cache
